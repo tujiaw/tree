@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="branch-closed.png">images/stylesheet-branch-closed.png</file>
+        <file alias="branch-end.png">images/stylesheet-branch-end.png</file>
+        <file alias="branch-more.png">images/stylesheet-branch-more.png</file>
+        <file alias="branch-open.png">images/stylesheet-branch-open.png</file>
+        <file alias="vline.png">images/stylesheet-vline.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>style.qss</file>
+    </qresource>
+</RCC>
